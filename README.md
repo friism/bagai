@@ -19,6 +19,12 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying to Heroku
 
+### Use Heroku Button
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+### Deploy with Git
+
 ```
 $ heroku create
 $ git push heroku master
